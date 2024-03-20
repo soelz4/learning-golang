@@ -1,2 +1,2 @@
 # learning-golang
-Learn Go Programming by Building Projects
+Learning Go Programming by Building Projects
