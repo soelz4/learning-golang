@@ -6,7 +6,8 @@ import (
 	"net/http"
 )
 
-// localhost:8080/form.html With Choose Name and Address Then Click Submit -> Parse form.html With Written Name and Address Then Redirecting to localhost:8080/form
+// localhost:8080/form.html With Choosen Name and Address Then Click Submit
+// Parse localhost:8080/form.html With Written Name and Address Then Redirecting to localhost:8080/form
 // err = Error From Parse Result or Null
 func formHandler(w http.ResponseWriter, r *http.Request) {
 	// Error Handling
