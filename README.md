@@ -1,7 +1,7 @@
 # learning-golang
 Learning Go Programming by Building Projects
 
-Projects:
+Projects:\
 1 - Simple Booking App (Ticketing)\
 2 - Local Static Simple Web Server\
 3 - CRUD-API
